@@ -1,0 +1,11 @@
+Gender,MTRANS,NObeyesdad
+Female,automobile,Normal_Weight
+Male,walking,Overweight_Level_I
+Male,public transport,Normal_Weight
+Female,motorbike,Overweight_Level_II
+Male,automobile,Overweight_Level_II
+Male,walking,Normal_Weight
+Female,public transport,Normal_Weight
+Male,motorbike,Overweight_Level_I
+Female,automobile,Normal_Weight
+Male,public transport,Normal_Weight
